@@ -11,6 +11,8 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/cnebs/
+  - title: github
+    url: https://www.github.com/cnebs
   # - title: medium
   #   url: https://medium.com/@cgroom
   # - title: twitter
