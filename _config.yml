@@ -10,11 +10,11 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cnebs/
+    url: https://www.linkedin.com/in/cneblett/
   - title: github
     url: https://www.github.com/cnebs
-  - title: twitter
-    url: https://twitter.com/cnebs
+  # - title: twitter
+  #   url: https://twitter.com/cnebs
   # - title: medium
   #   url: https://medium.com/@cgroom
   # - title: twitter
@@ -28,8 +28,8 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2196F3
-  primary-rgb: "33, 150, 243"
+  primary: 2a76b4
+  primary-rgb: "42, 118, 180"
   secondary: 285172
   secondary-dark: 29455b
   section-tout: eaf1f1
