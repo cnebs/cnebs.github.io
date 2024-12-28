@@ -2,7 +2,7 @@
 name: Charles Neblett
 email: charles.neblett@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Cloud, Developer, Security, Javascript, Node, React, Express, Startups, Agile, Pair Programming"
+keywords: "Software Engineer, Cloud, Developer, Security, Spring, Consulting, Startup, XP, Enterprise, Research, Java, Javascript, Node, React, Express, Startups, Agile, Pair Programming"
 skills: "Software Engineer in Austin, TX"
 baseurl:
 
@@ -11,15 +11,15 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/cneblett/
-  - title: github
-    url: https://www.github.com/cnebs
-  - title: twitter
-    url: https://twitter.com/cnebs823
+  # - title: github
+  #   url: https://www.github.com/cnebs
+  # - title: twitter
+  #   url: https://twitter.com/cnebs823
   # - title: medium
   #   url: https://medium.com/@cgroom
   # - title: twitter
   #   url: https://twitter.com/chuck_groom
-    
+
 # Google webmaster tools
 google_verify:
 
@@ -33,8 +33,6 @@ color:
   secondary: 285172
   secondary-dark: 29455b
   section-tout: eaf1f1
-
-
 
 # Build settings
 markdown: kramdown
